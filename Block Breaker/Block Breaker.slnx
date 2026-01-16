@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Block Breaker/Block Breaker.vcxproj" Id="6dd41817-4d2f-40da-a9d7-63a74f2ea141" />
+  <Project Path="Lib 2D/Lib 2D.vcxproj" Id="515140fb-291f-40ec-99bc-3bb6e912ddde" />
+  <Project Path="Moteur/Moteur.vcxproj" Id="e90f53bf-e082-4c9e-a9a4-ee08c7d51657" />
+</Solution>
