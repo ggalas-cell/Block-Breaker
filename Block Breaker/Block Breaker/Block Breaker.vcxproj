@@ -24,7 +24,7 @@
     <ProjectGuid>{6dd41817-4d2f-40da-a9d7-63a74f2ea141}</ProjectGuid>
     <RootNamespace>BlockBreaker</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Jeu</ProjectName>
+    <ProjectName>Game</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
